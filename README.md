@@ -1,4 +1,4 @@
-### Hi there 👋, I'm @Jumshim. Welcome to my page!
+### Hi! 👋 I'm @Jumshim, welcome to my page!
 
 🏳️‍🌈 Pronouns: He/Him/Hers
 
