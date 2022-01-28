@@ -8,6 +8,6 @@
 
 📫 How to reach me: jeffreymun@ucsb.edu
 
-🦾 My Strengths: Javascript, C++, React, Express.Js, SQLite3
+🦾 My Strengths: Javascript, C++, Java, React, Express.Js, SQLite3
 
 see you soon! :3
