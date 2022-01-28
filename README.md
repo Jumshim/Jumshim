@@ -10,4 +10,6 @@
 
 🦾 My Strengths: Javascript, C++, Java, React, Express.Js, SQLite3
 
+✨ Fun Fact: My username is based on the Korean word for lunch, 점심! 🥘
+
 see you soon! :3
