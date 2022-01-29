@@ -12,3 +12,6 @@
 📫 How to reach me: jeffreymun@ucsb.edu
 
 see you soon! :3
+
+[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumshim)](https://github.com/jumshim/github-readme-stats)
+
