@@ -9,9 +9,10 @@
 
 ✨ Fun Fact: My username is based on the Korean word for lunch, 점심! 🥘
 
-📫 How to reach me: jeffreymun@ucsb.edu
+📫 Contact me @ munjeffrey2003@gmail.com
 
 see you soon! :3
 
-[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumshim)](https://github.com/jumshim/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jumshim)](https://git.io/streak-stats)
+
 
