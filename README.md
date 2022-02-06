@@ -14,5 +14,4 @@
 
 see you soon! :3
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jumshim)](https://git.io/streak-stats)
 
