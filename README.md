@@ -9,7 +9,7 @@
 
 ✨ Fun Fact: My username is based on the Korean word for lunch, 점심! 🥘
 
-📫 Contact me @ munjeffrey2003@gmail.com
+📫 Contact me @ munjeffrey2003@gmail.com | 💌 LinkedIn: www.linkedin.com/in/jeffrey-mun
 
 see you soon! :3
 
