@@ -1,4 +1,5 @@
 ### Hi! 👋 I'm @Jumshim, welcome to my page!
+![](https://komarev.com/ghpvc/?username=Jumshim)
 
 🏳️‍🌈 Pronouns: He/Him/Hers
 
@@ -12,4 +13,6 @@
 📫 Contact me @ munjeffrey2003@gmail.com | 💌 LinkedIn: www.linkedin.com/in/jeffrey-mun
 
 see you soon! :3
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jumshim)](https://git.io/streak-stats)
 
