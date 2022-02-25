@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm @Jumshim, welcome to my page!
 ![](https://komarev.com/ghpvc/?username=Jumshim)
 
-🏳️‍🌈 Pronouns: He/Him/Hers
+🏳️‍🌈 Pronouns: He/Him/His
 
 🤔 I'm currently interested in: Full Stack Development
 
