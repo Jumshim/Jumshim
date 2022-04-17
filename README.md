@@ -13,3 +13,5 @@
 📫 Contact me @ munjeffrey2003@gmail.com | 💌 LinkedIn: www.linkedin.com/in/jeffrey-mun
 
 see you soon! :3
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumshim)](https://github.com/anuraghazra/github-readme-stats)
