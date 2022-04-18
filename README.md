@@ -1,6 +1,4 @@
 ### Hi! 🐼 I'm @Jumshim, welcome to my page!
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jumshim.visitor-badge&left_color=red&right_color=green) 
-
 🏳️‍🌈 Pronouns: He/Him/His
 
 🏋️ I'm currently interested in: Full Stack Development
