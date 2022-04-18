@@ -1,5 +1,4 @@
 ### Hi! 🐼 I'm @Jumshim, welcome to my page!
-![](https://komarev.com/ghpvc/?username=Jumshim)
 
 🏳️‍🌈 Pronouns: He/Him/His
 
