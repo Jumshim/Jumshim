@@ -4,7 +4,7 @@
 🏋️ I'm currently interested in: Full Stack Development
 
 🤌 I'm looking to collaborate on: Anything! Reach out to me if you have any ideas on projects/hackathons/research.
-   - 🦾 My Strengths: MERN stack, Java 8, C++, Ruby-On-Rails, Solidity, Typescript, React Native
+   - 🦾 My Strengths: C++, Ruby-On-Rails, Solidity, Typescript, React Native, MERN stack, Java 8
 
 ✨ Fun Fact: My username is based on the Korean word for lunch, 점심! 🥘
 
